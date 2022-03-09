@@ -30,7 +30,16 @@ NTSB database is a MS Access database with 18 different tables related to each o
 A VBA macro was developed to export all 18 tables from MS Access at once to Excel.
 Python scripts are used for developing corelation charts but majority of the visualizations are created in Tableau
 
+### Analysis Tools
+Python
+
+### Visualization Tools
+Tableau
+Python
+
 ### Tableau Storyboard Link
 https://public.tableau.com/app/profile/alankar2299/viz/NTSB_Aircraft_Accidents/Story1?publish=yes
 
+### Python Scripts
+https://github.com/Alankar2299/NTSB_Aircrash_Database_Analysis/tree/main/03_Scripts
 
