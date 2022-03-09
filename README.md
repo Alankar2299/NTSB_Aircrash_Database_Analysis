@@ -7,7 +7,7 @@ Source : https://en.wikipedia.org/wiki/National_Transportation_Safety_Board
 **Objectives of this Analysis :**
 
 1. What is the Yearly Trend of number of aircraft accidents?
-2.  Which States report the maximum aircraft accidents
+2. Which States report the maximum aircraft accidents
 3. Which periods (months,day,time of the day) have maximum aircraft accidents
 4. Which Aircrafts of which manufacturers  are involved in maximum aircraft accidents
 5. Is bad weather a factor ?
@@ -23,6 +23,7 @@ Only "Airplane" is retained in the subset.
 NTSB dataset has the following event categories :
 "Accident,Incident,Occurrence,Unknown Event Type"
 Only "Accident" is retained in the subset.
+Data from 2008 to 2021 is used. 2022 entries are ommited.
 
 **Challenges :**
 NTSB database is a MS Access database with 18 different tables related to each other.These have to be exported to Excel,combined and filtered to produce the data subset.
